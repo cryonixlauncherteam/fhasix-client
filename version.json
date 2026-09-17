@@ -9,17 +9,17 @@
       "files": [
         {
           "name": "fabric-api.jar",
-          "url": "YOUR_FABRIC_API_URL",
+          "url": "https://github.com/cryonixlauncherteam/fhasix-client/releases/download/fhasix/fabric-api-0.141.6%2B1.21.1.1.jar",
           "required": true
         },
         {
-          "name": "feather-ui.jar",
-          "url": "YOUR_FEATHER_UI_URL",
+          "name": "Feather.UI.v1.jar",
+          "url": "https://github.com/cryonixlauncherteam/fhasix-client/releases/download/fhasix/Feather.UI.v1.jar",
           "required": true
         },
         {
-          "name": "modmenu.jar",
-          "url": "YOUR_MOD_MENU_URL",
+          "name": "Mod.Menu.v1.1.jar",
+          "url": "https://github.com/cryonixlauncherteam/fhasix-client/releases/download/fhasix/Mod.Menu.v1.1.jar",
           "required": true
         }
       ]
