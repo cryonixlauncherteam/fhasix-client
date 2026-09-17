@@ -1,0 +1,28 @@
+{
+  "custom_mods": [
+    {
+      "id": "fhasix_client",
+      "name": "Fhasix Client",
+      "version": "1.0.0",
+      "minecraft_version": "1.21.1",
+      "loader": "fabric",
+      "files": [
+        {
+          "name": "fabric-api.jar",
+          "url": "YOUR_FABRIC_API_URL",
+          "required": true
+        },
+        {
+          "name": "feather-ui.jar",
+          "url": "YOUR_FEATHER_UI_URL",
+          "required": true
+        },
+        {
+          "name": "modmenu.jar",
+          "url": "YOUR_MOD_MENU_URL",
+          "required": true
+        }
+      ]
+    }
+  ]
+}
